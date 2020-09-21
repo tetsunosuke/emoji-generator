@@ -1,5 +1,7 @@
-require 'RMagick'
+require 'rmagick'
 require 'pry'
+require 'securerandom'
+
 include Magick
 
 class EmojiImage
