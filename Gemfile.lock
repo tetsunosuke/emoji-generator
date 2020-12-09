@@ -40,7 +40,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rmagick (2.16.0)
+    rmagick (4.1.2)
     sinatra (1.4.7)
       rack (~> 1.5)
       rack-protection (~> 1.4)
